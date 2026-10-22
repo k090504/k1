@@ -1,1 +1,2 @@
 2nd DevOps lab program"This is a feature branch edit"
+"Feature branch conflict edit"
